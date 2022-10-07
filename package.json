@@ -1,0 +1,23 @@
+{
+  "name": "trees-example",
+  "version": "1.0.0",
+  "description": "- Linked Lists: Need to be able to traverse\r - Stacks\r - Queues",
+  "main": "tree.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Keelen-Fisher/Trees-Example.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Keelen-Fisher/Trees-Example/issues"
+  },
+  "homepage": "https://github.com/Keelen-Fisher/Trees-Example#readme",
+  "dependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
